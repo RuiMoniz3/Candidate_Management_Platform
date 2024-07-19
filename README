@@ -1,0 +1,20 @@
+Manual Intruções
+
+Pré-Requisitos:
+
+1 - Instalar Python (versão 3.8 ou maior) https://www.python.org/
+2 - Instalar Node.js (versão 14 ou maior) 
+3 - Instalar npm (Node.js package manager) utilizando o pip
+4 - Instalar Django Rest Framework
+
+Instruções
+
+Ativar a API: 
+    1 - Navegue até a diretoria /Candidate_Management_Platform
+    2 - No terminal, corra o comando python manage.py runserver
+
+Ativar Frontend:
+    1 - Navegue até a diretoria /Candidate_Management_Platform/frontend
+    2 - No terminal, corra o comando npm start
+
+
